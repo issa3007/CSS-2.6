@@ -1,0 +1,117 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: #181D27;
+  text-align: center;
+  font-family: "Inknut Antiqua";
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -0.8px;
+  margin-bottom: 32px;
+}
+span {
+  color: #535862;
+  font-family: Inder;
+  font-size: 18px;
+  line-height: 28px;
+  vertical-align: middle;
+}
+
+#specialOne {
+  margin-right: 0;
+  margin-left: 96px;
+}
+#specialList, #specialList2, #specialList3 {
+  margin-top: 0;
+}
+
+.everything_wrapper {
+  padding: 64px 0 268px;
+}
+.content_wrapper {
+  padding: 96px;
+  margin: auto;
+  max-width: 1604px;
+  width: 100%;
+  background-color: #E4EBFF;
+}
+.margin_top {
+  margin-top: 96px;
+}
+.first_article_list img {
+  margin: 0 12px 0 16px;
+}
+.icon_wrapper {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  background-color: #F4EBFF;
+  display: inline-block;
+  padding: 12px;
+}
+.content {
+  padding: 96px 0;
+  background-color: #fff;
+  max-width: 1280px;
+  margin: auto;
+}
+.content_header {
+  padding: 0 32px;
+  margin-bottom: 96px;
+}
+.features {
+  color: #6941C6;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 12px;
+}
+.heading_p {
+  color: #535862;
+  text-align: center;
+  font-family: "Inria Sans";
+  font-size: 20px;
+  line-height: 24px;
+}
+.content_first_article {
+  display: inline-block;
+  max-width: 560px;
+  margin-right: 96px;
+}
+.vertical_middle {
+  vertical-align: middle;
+}
+.margin_left {
+  margin-left: 32px;
+}
+.content_first_article_heading {
+  color: #181D27;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 38px;
+  margin-top: 20px;
+}
+.content_first_article_p {
+  color: #535862;
+  font-family: Inter;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 16px;
+}
+.first_article_list {
+  margin-top: 32px;
+}
+span, .list_elements_wrappers img {
+  vertical-align: middle;
+}
+.list_elements_wrappers {
+  margin-top: 20px;
+}
